@@ -1,0 +1,5 @@
+embedding_model: 'all-MiniLM-L6-v2'
+vector_db_path: 'data/faiss_index'
+llm:
+  model_name: 'llama3'
+  temperature: 0.7
